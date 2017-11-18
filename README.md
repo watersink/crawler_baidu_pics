@@ -19,5 +19,4 @@ run:
     second:python3 crawler.py
 
 
-![image]( https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/0.jpg)
-
+![image]( https://github.com/watersink/crawler_baidu_pics/raw/master/%EF%BB%BF%E5%B0%8F%E6%9D%8E%E5%AD%90/0.jpg)
