@@ -14,3 +14,8 @@ run:
     first:prepare the name_lists.txt
     
     second:python3 crawler.py
+
+![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/0.jpg)
+![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/1.jpg)
+![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/0.jpg)
+![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/1.jpg)
