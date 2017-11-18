@@ -18,5 +18,6 @@ run:
     
     second:python3 crawler.py
 
-![image]( https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/3.jpg)
+
 ![image]( https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/0.jpg)
+
