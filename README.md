@@ -5,6 +5,9 @@ Destription:
 
 name_lists.txt，用于保存需要爬取的人名，一行一个
 
+    小李子
+    新垣结衣
+
 crawler.py，main function，可以设置需要爬取的图片个数
 
 
@@ -15,7 +18,4 @@ run:
     
     second:python3 crawler.py
 
-![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/0.jpg)
-![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/1.jpg)
-![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/0.jpg)
-![image]( https://https://github.com/watersink/crawler_baidu_pics/raw/master/小李子/1.jpg)
+![image]( https://github.com/watersink/crawler_baidu_pics/raw/master/新垣结衣/0.jpg)
